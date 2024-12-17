@@ -1,4 +1,5 @@
-![banner-aa](https://github.com/andresaraque/andresaraque/assets/27929468/8391479c-e5bd-43b5-bc85-c643ddbbcefd)
+[![banner-aa (1)](https://github.com/user-attachments/assets/b6473d90-42f7-4625-84ef-c8829cc5ab93)](https://araqueandres.com)
+
 
 
 ## 🛠 - Tech Stack
@@ -20,25 +21,11 @@
 ![DynamoDb](https://img.shields.io/badge/-DynamoDB-333?style=flat&logo=amazondynamodb&logoColor=%234053D6)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &#160;
-![AWS](https://img.shields.io/badge/-Cloud%20Services-333?style=flat&logo=amazonaws&logoColor=%23FF9900)
+![AWS](https://img.shields.io/badge/-AWS%20Services-333333?style=flat&logo=amazonwebservices&logoColor=%23FF9900)
 ![Terraform](https://img.shields.io/badge/-Terraform-333?style=flat&logo=terraform)
 
 - 🔧 &#160;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624) 
-<!--
-**andresaraque/andresaraque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
