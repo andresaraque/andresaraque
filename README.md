@@ -1,4 +1,4 @@
-[![banner-aa (1)](https://github.com/user-attachments/assets/b6473d90-42f7-4625-84ef-c8829cc5ab93)](https://araqueandres.com)
+[![banner-aa-kb](https://github.com/user-attachments/assets/030b845f-1e32-4016-b93f-caa775eaeaea)](https://araqueandres.com)
 
 
 
